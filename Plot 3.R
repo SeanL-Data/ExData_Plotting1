@@ -1,3 +1,4 @@
+
 #set to directory with power consumption data
 setwd("C:/.../Exploratory Data Week 1")
 
